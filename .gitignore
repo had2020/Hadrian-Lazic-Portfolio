@@ -1,2 +1,4 @@
 Backend/Cargo.lock
-/target
+target/
+debug/
+release/
