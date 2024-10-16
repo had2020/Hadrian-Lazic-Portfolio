@@ -2,3 +2,4 @@ Backend/Cargo.lock
 target/
 debug/
 release/
+cargo.log
